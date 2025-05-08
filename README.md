@@ -7,7 +7,7 @@ Foody, modern ve kullanıcı dostu bir yemek sipariş sistemidir. ASP.NET Core M
 - ASP.NET Core MVC
 - Entity Framework Core
 - SQL Server
-- Bootstrap
+- Bootstrap 
 - HTML5/CSS3
 - JavaScript/jQuery
 
